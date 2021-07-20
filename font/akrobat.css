@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Akrobat';
+	src: url('Akrobat-Regular.eot');
+	src: local('Akrobat Regular'), local('Akrobat-Regular'),
+		url('Akrobat-Regular.eot?#iefix') format('embedded-opentype'),
+		url('Akrobat-Regular.woff') format('woff'),
+		url('Akrobat-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Akrobat';
+	src: url('Akrobat-Light.eot');
+	src: local('Akrobat Light'), local('Akrobat-Light'),
+		url('Akrobat-Light.eot?#iefix') format('embedded-opentype'),
+		url('Akrobat-Light.woff') format('woff'),
+		url('Akrobat-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Akrobat';
+	src: url('Akrobat-Bold.eot');
+	src: local('Akrobat Bold'), local('Akrobat-Bold'),
+		url('Akrobat-Bold.eot?#iefix') format('embedded-opentype'),
+		url('Akrobat-Bold.woff') format('woff'),
+		url('Akrobat-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}

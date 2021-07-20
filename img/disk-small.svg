@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="disk-small" transform="translate(-367.036 -121.986)">
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(367.036 121.986)" fill="none" stroke="#707070" stroke-width="3">
+      <ellipse cx="17.5" cy="17.5" rx="17.5" ry="17.5" stroke="none"/>
+      <ellipse cx="17.5" cy="17.5" rx="16" ry="16" fill="none"/>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(375 130)" fill="none" stroke="#707070" stroke-width="3.5">
+      <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+      <circle cx="9.5" cy="9.5" r="7.75" fill="none"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M1.512-1.475.871,15l.641.392" transform="translate(383.503 132.014)" fill="none" stroke="#707070" stroke-width="3.5"/>
+  </g>
+</svg>
